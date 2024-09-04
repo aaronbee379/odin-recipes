@@ -1,1 +1,2 @@
 # odin-recipes
+Hello Odin! Today I'm trying to take on my first HTML project. I know its going to be a little complicated for me but somehow I feel confident that I can push through. I'll try my best to pick up things from memory and work independently though I may still have to look back at some notes from time to time.
